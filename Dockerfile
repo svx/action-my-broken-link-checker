@@ -12,7 +12,7 @@ LABEL "com.github.actions.color"="blue"
 ENV MUFFET_VERSION="2.3.0"
 #ENV MUFFET_VERSION="latest"
 
-ENV CADDY_VERSION="2.2.1"
+ENV CADDY_VERSION="2.2.3"
 #ENV CADDY_VERSION="latest"
 
 SHELL ["/bin/ash", "-eo", "pipefail", "-c"]
